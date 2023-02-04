@@ -53,12 +53,20 @@ nav {
 
 .navbar-brand {
     font-family: 'Poppins', sans-serif;
-    font-size: 2em;
     font-weight: bolder;
-    letter-spacing: 0.4em;
+    letter-spacing: 10px;
+    padding-left: 50px;
 }
 
 .nav-item {
     padding-right: 3em;
     padding-left: 3em;
+}
+
+.portrait {
+    width: 40%;
+    height: 40%;
+    padding: 5rem;
+    padding-top: 4rem;
+    border-radius: 125px;
 }
