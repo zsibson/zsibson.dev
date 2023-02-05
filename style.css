@@ -69,11 +69,19 @@ table {
     border-radius: 125px;
 }
 
-h1 {
-	font-family: 'Poppins';
-	border: solid red 1px;
+.greeting{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	letter-spacing: 10px;
+	position: absolute;
+	top: 8rem;
+	right: 5rem;
 }
 
 .row {
+	border: solid red 1px;
+}
+
+.col-6 {
 	border: solid red 1px;
 }
