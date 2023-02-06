@@ -50,15 +50,15 @@ table {
 
 .navbar-brand {
     font-family: 'Poppins', sans-serif;
-    font-weight: bolder;
+    /* font-weight: bolder;
     letter-spacing: 10px;
-    padding-left: 50px;
+    padding-left: 50px; */
 }
 
-.nav-item {
+/* .nav-item {
     padding-right: 3em;
     padding-left: 3em;
-}
+} */
 
 
 .portrait {
@@ -69,7 +69,7 @@ table {
     border-radius: 125px;
 }
 
-.greeting{
+.greeting {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 600;
 	letter-spacing: 10px;
